@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Patrick Lunney
 
-<!--
-**Patrick-Lunney/Patrick-Lunney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Student | Hospitality Professional | Transitioning to IT**
 
-Here are some ideas to get you started:
+Computer Science (Cybersecurity) @ Swinburne University of Technology  
+8+ years hospitality leadership experience  
+Building hands-on cybersecurity and networking projects  
+Melbourne, Victoria, Australia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Enterprise network design and security
+- Network routing and infrastructure  
+- Security policy implementation
+- IT support and system administration
+
+## Technical Skills
+**Networking:** Cisco IOS, OSPF, VLANs, ACLs, NAT/PAT, Network Security  
+**Programming:** C#, Python, PHP, HTML/CSS, SQL  
+**Tools:** VMware, Cisco Packet Tracer, Git, VSCode  
+**Databases:** MySQL, MariaDB, MongoDB  
+
+## Featured Projects
+*Building comprehensive portfolio of cybersecurity and networking projects*
+
+## Let's Connect
+- LinkedIn: www.linkedin.com/in/patrick-lunney-4941a9345
+- Email: patrick-lunney@outlook.com
+
+---
+*Currently seeking entry-level IT support and cybersecurity opportunities in Melbourne*
