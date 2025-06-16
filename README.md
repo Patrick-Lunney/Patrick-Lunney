@@ -14,7 +14,7 @@ Melbourne, Victoria, Australia
 - IT support and system administration
 
 ## Technical Skills
-**Networking:** Cisco IOS, OSPF, VLANs, ACLs, NAT/PAT, Network Security  
+**Networking:** Cisco IOS, OSPF (Single & Multi-Area), VLANs, ACLs, NAT/PAT, Network Security 
 **Programming:** C#, Python, PHP, HTML/CSS, SQL  
 **Tools:** VMware, Cisco Packet Tracer, Git, VSCode  
 **Databases:** MySQL, MariaDB, MongoDB  
